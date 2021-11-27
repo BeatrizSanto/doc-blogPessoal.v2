@@ -1,5 +1,3 @@
 # doc-blogPessoal.v2
 
-Java Eclipse
-Mysql
-Postman
+Foi utilizados nos projetos  Java Eclipse,Mysql  e Postman
